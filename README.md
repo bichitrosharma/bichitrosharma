@@ -8,7 +8,7 @@
 
 <!-- Contact me section starts here  -->
 <div align="left">
-  <a href="bichitrosharma" target="_blank">
+  <a href="https://www.linkedin.com/in/bichitrosharma/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="bichitrosharma" target="_blank">
