@@ -1,74 +1,55 @@
-<!-- banner image starts here  -->
-<img src="https://media.licdn.com/dms/image/D5616AQEgE_9oXPdpJg/profile-displaybackgroundimage-shrink_350_1400/0/1703348132193?e=1723075200&v=beta&t=-ivh41MRloEFu-FxM265gYZ4rI-e4hUqx0GMp5KinNM" width="100%">
-<!-- banner image ends here  -->
+<!-- Banner Image Section -->
+<img src="https://media.licdn.com/dms/image/D5616AQEgE_9oXPdpJg/profile-displaybackgroundimage-shrink_350_1400/0/1703348132193?e=1723075200&v=beta&t=-ivh41MRloEFu-FxM265gYZ4rI-e4hUqx0GMp5KinNM" width="100%" alt="Banner Image" />
 
-<h1> 👋 Hello, I'm Bichitro Sharma </h1>
+<!-- Header Section -->
+<h1>👋 Hi, I'm Bichitro Sharma</h1>
+<h4>Experienced Web Developer | WordPress, WooCommerce, SEO Expert</h4>
 
-<h4> Professional Web  Developer, Wordpress, WooCommerce, SEO </h4>  
-
-<!-- Contact me section starts here  -->
+<!-- Contact Section -->
 <div align="left">
   <a href="https://www.linkedin.com/in/bichitrosharma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn" />
   </a>
   <a href="https://www.behance.net/bichitrosharma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="42" height="30" alt="behance logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="42" height="30" alt="Behance" />
   </a>
   <a href="https://www.x.com/bichitrosharma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="Twitter" />
   </a>
   <a href="https://www.facebook.com/bichitrosharma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="Facebook" />
   </a>
 </div>
-<!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me
-
+<!-- About Me Section -->
+<h3>👨‍🏫 About Me</h3>
 <p align="justify">
-Hi, I'm Bichitro Sharma, a seasoned Web Developer specializing in creating responsive, user-friendly websites. My services include Web development, WordPress & WooCommerce development, SEO optimization, data entry, and e-commerce solutions. With a commitment to top-notch results, I ensure your online presence shines. Let's collaborate and elevate your website to new heights!
+I’m Bichitro Sharma, a passionate and experienced Web Developer. My expertise lies in crafting responsive, user-centric websites using modern technologies. I specialize in WordPress, WooCommerce, SEO, and e-commerce solutions, ensuring that each project is delivered with precision and professionalism. Whether you need a sleek, functional website or SEO-optimized content, I am here to help your business thrive online. Let’s collaborate to create a powerful digital presence!
 </p>
 
-<br />
-<!-- about-me section ends here  -->
-
-<!-- web related skills section starts here  -->
-
-### 👨🏽‍💻 &nbsp; My Skills:
-
+<!-- Skills Section -->
+<h3>👨🏽‍💻 My Skills</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Programming" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="CodePen" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
 </div>
 
-<br />
-<br />
-<br />
-
-
+<!-- Visitor Count -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/bichitrosharma/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/bichitrosharma/count.svg?" alt="Visitor Count" />
 </div>
 
-<!-- github stats starts here  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bichitrosharma)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bichitrosharma&show_icons=true)
-
-<br/>
-
-
-
-<!-- github stats ends here  -->
+<!-- GitHub Stats Section -->
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bichitrosharma" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=bichitrosharma&show_icons=true" alt="GitHub Stats" />
+  </a>
+</div>
