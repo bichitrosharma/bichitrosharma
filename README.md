@@ -1,5 +1,5 @@
 <!-- Banner Image Section -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEgE_9oXPdpJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703348132193?e=1732147200&v=beta&t=tLHldXU8fkHkpn3rBT_0q0ux5KZdxtSlAGnJXSNMDr8" width="100%" alt="Banner Image" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEgE_9oXPdpJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703348132193?e=1739404800&v=beta&t=ecU-gsQqFztGS7d7PlxgV3mtIwCkhhHyyVxcR_SHfBc" />
 
 <!-- Header Section -->
 <h1>👋 Hi, I'm Bichitro Sharma</h1>
