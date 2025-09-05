@@ -1,5 +1,5 @@
 <!-- Banner Image Section -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEgE_9oXPdpJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703348132193?e=1739404800&v=beta&t=ecU-gsQqFztGS7d7PlxgV3mtIwCkhhHyyVxcR_SHfBc" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEgE_9oXPdpJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703348132193?e=1759968000&v=beta&t=pxykp_dkVFiOH3YrGMY1EooUH2siq4__LVUS6Pl2aco" />
 
 <!-- Header Section -->
 <h1>👋 Hi, I'm Bichitro Sharma</h1>
@@ -24,7 +24,13 @@
 <!-- About Me Section -->
 <h3>👨‍🏫 About Me</h3>
 <p align="justify">
-I’m Bichitro Sharma, a passionate and experienced Web Developer. My expertise lies in crafting responsive, user-centric websites using modern technologies. I specialize in WordPress, WooCommerce, SEO, and e-commerce solutions, ensuring that each project is delivered with precision and professionalism. Whether you need a sleek, functional website or SEO-optimized content, I am here to help your business thrive online. Let’s collaborate to create a powerful digital presence!
+Hi, I’m Bichitro Sharma, an experienced WordPress Developer with a passion for creating responsive, user-friendly websites. I specialize in WordPress & WooCommerce development, SEO optimization, data entry, and e-commerce solutions. In addition to my WordPress expertise, I am continually refining my skills in HTML, CSS, JavaScript, and Python to stay at the forefront of web development. 💡
+
+I believe in creativity, gratitude, and lifelong learning, approaching every project with a problem-solving mindset. Whether I’m crafting an online presence that shines or exploring new possibilities, my goal is to deliver top-notch results.
+
+📚 Business Studies Enthusiast
+💻 Night Owl: My best ideas come alive under the stars! 🌌
+📍 Always Creating: From building innovative websites to sharing smiles offline, I strive to make every moment count. 😊
 </p>
 
 <!-- Skills Section -->
