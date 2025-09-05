@@ -3,7 +3,7 @@
 
 <!-- Header Section -->
 <h1>👋 Hi, I'm Bichitro Sharma</h1>
-<h4>Experienced Web Developer | WordPress, WooCommerce, SEO Expert</h4>
+<h4>Generative AI</h4>
 
 <!-- Contact Section -->
 <div align="left">
